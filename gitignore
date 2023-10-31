@@ -1,4 +1,4 @@
 .idea
 __pycache__
 venv
-stocks_products/.env
+/stocks_products/.env
