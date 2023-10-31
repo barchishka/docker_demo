@@ -1,0 +1,11 @@
+Django
+django-debug-toolbar
+django-filter
+djangorestframework
+psycopg2-binary
+idna
+gunicorn
+python-dotenv
+requests
+typing_extensions
+urllib3
